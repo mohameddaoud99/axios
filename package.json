@@ -1,0 +1,23 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihelboujelben/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihelboujelben/node/issues"
+  },
+  "homepage": "https://github.com/nihelboujelben/node#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "nodemon": "^2.0.4"
+  }
+}
